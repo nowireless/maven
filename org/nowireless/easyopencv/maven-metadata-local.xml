@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.nowireless</groupId>
+  <artifactId>easyopencv</artifactId>
+  <versioning>
+    <latest>1.5.2-contrib</latest>
+    <release>1.5.2-contrib</release>
+    <versions>
+      <version>1.5.2-contrib</version>
+    </versions>
+    <lastUpdated>20221030011217</lastUpdated>
+  </versioning>
+</metadata>
